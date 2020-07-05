@@ -1,0 +1,6 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.59393E+12,2755,HTTP Request,200,OK,Thread Group 1-2,text,FALSE,"DOCTYPE is disallowed when the feature ""http://apache.org/xml/features/disallow-doctype-decl"" set to true.",50654,120,5,5,http://lifecharger.org/,2230,0,271
+1.59393E+12,2820,HTTP Request,200,OK,Thread Group 1-3,text,FALSE,"The operation lasted too long: It took 2,820 milliseconds, but should not have lasted longer than 2,800 milliseconds.",50669,120,4,4,http://lifecharger.org/,2297,0,270
+1.59393E+12,3311,HTTP Request,200,OK,Thread Group 1-4,text,FALSE,"The operation lasted too long: It took 3,311 milliseconds, but should not have lasted longer than 2,800 milliseconds.",50668,120,3,3,http://lifecharger.org/,2787,0,271
+1.59393E+12,3900,HTTP Request,200,OK,Thread Group 1-1,text,FALSE,"The operation lasted too long: It took 3,900 milliseconds, but should not have lasted longer than 2,800 milliseconds.",50654,120,3,3,http://lifecharger.org/,3374,0,426
+1.59393E+12,3343,HTTP Request,200,OK,Thread Group 1-5,text,FALSE,"The operation lasted too long: It took 3,343 milliseconds, but should not have lasted longer than 2,800 milliseconds.",50654,120,1,1,http://lifecharger.org/,2817,0,271
